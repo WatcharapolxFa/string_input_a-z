@@ -3,7 +3,9 @@
 #include<iostream>
 int main()
 {
-	std::cout << "Hello World !\n";
-	std::cout << "I am Learninh c++";
+	std::cout << "Hello World !"<<std::endl;
+	std::cout << "I am Learninh c++"<< std::endl;
+	int myNum = 15;
+	std::cout << myNum ;
 	return 0;
 }
